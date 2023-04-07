@@ -1,0 +1,14 @@
+body{
+ background-color: #DDD0C8;
+ color#323232;
+ font-family: arial;
+/*Comment in CSS*/
+ margin: auto;
+ max-width: 50%;
+
+}
+
+img{
+ border-radius: 50%;
+
+}
